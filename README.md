@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning `JS (Javascript), Java` and already know `Haxe`
 - 📫 How to reach me: midygamy (on discord)
-- 😄 Pronouns: Any (but They/Them is prefered)
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on FNF mods and Other Projects
 - I use both Windows (11) and Linux (precisely KDE Neon 6.3, based on Ubuntu 24.04LTS)
